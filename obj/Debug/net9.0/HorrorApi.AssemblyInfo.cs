@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HorrorApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddc3a4a2e901f5073b7918e49c0b0780c2e01646")]
 [assembly: System.Reflection.AssemblyProductAttribute("HorrorApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HorrorApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

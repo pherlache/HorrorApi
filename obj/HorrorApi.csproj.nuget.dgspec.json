@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pa03192\\source\\repos\\HorrorApi\\HorrorApi.csproj": {}
+    "c:\\Users\\pa03192\\source\\repos\\HorrorApi\\HorrorApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pa03192\\source\\repos\\HorrorApi\\HorrorApi.csproj": {
+    "c:\\Users\\pa03192\\source\\repos\\HorrorApi\\HorrorApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pa03192\\source\\repos\\HorrorApi\\HorrorApi.csproj",
+        "projectUniqueName": "c:\\Users\\pa03192\\source\\repos\\HorrorApi\\HorrorApi.csproj",
         "projectName": "HorrorApi",
-        "projectPath": "C:\\Users\\pa03192\\source\\repos\\HorrorApi\\HorrorApi.csproj",
+        "projectPath": "c:\\Users\\pa03192\\source\\repos\\HorrorApi\\HorrorApi.csproj",
         "packagesPath": "C:\\Users\\pa03192\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pa03192\\source\\repos\\HorrorApi\\obj\\",
+        "outputPath": "c:\\Users\\pa03192\\source\\repos\\HorrorApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pa03192\\AppData\\Roaming\\NuGet\\NuGet.Config"
